@@ -1,0 +1,8 @@
+.todo{
+    border-width: max-content;
+    margin: 20px;
+}
+
+.todos{
+    justify-content: center;
+}
